@@ -1,0 +1,80 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+65.75.194.18,13888,443,true,SJC,North America,San Jose,200,11.36
+65.75.193.30,34237,2096,true,SJC,North America,San Jose,174,11.35
+65.75.195.8,34237,2096,true,SJC,North America,San Jose,186,11.34
+65.75.195.47,34237,2096,true,SJC,North America,San Jose,183,11.33
+136.175.178.9,34237,2096,true,SJC,North America,San Jose,194,11.33
+174.136.206.95,57757,443,true,SJC,North America,San Jose,172,11.32
+174.136.205.7,34237,2096,true,SJC,North America,San Jose,173,11.32
+65.75.192.24,16478,443,true,SJC,North America,San Jose,188,11.31
+65.75.194.2,34237,2096,true,SJC,North America,San Jose,199,11.30
+45.59.185.11,34237,2096,true,SJC,North America,San Jose,182,11.28
+65.75.194.94,34237,2096,true,SJC,North America,San Jose,173,11.27
+65.75.195.74,34237,2096,true,SJC,North America,San Jose,193,11.26
+136.175.176.19,34237,2096,true,SJC,North America,San Jose,172,11.26
+154.12.191.59,46292,443,true,NRT,Asia Pacific,Tokyo,81,11.21
+154.21.90.107,34237,2096,true,LAX,North America,Los Angeles,191,11.16
+154.17.4.180,56434,443,true,LAX,North America,Los Angeles,198,11.08
+154.21.80.118,34237,2096,true,LAX,North America,Los Angeles,162,11.04
+154.17.14.197,12306,443,true,LAX,North America,Los Angeles,162,11.04
+154.17.4.180,45956,443,true,LAX,North America,Los Angeles,171,11.01
+154.21.95.113,33849,443,true,LAX,North America,Los Angeles,175,11.01
+154.17.6.196,51297,443,true,LAX,North America,Los Angeles,172,11.01
+154.21.84.118,34237,2096,true,LAX,North America,Los Angeles,180,10.98
+154.17.6.131,12814,0,true,LAX,North America,Los Angeles,166,10.92
+154.17.30.48,26269,443,true,LAX,North America,Los Angeles,182,10.91
+154.17.11.211,32939,443,true,LAX,North America,Los Angeles,180,10.89
+154.17.27.49,2012,443,true,LAX,North America,Los Angeles,185,10.89
+154.21.95.13,34237,2096,true,LAX,North America,Los Angeles,177,10.88
+154.17.25.205,50001,443,true,LAX,North America,Los Angeles,171,10.86
+154.17.17.205,5214,443,true,LAX,North America,Los Angeles,166,10.82
+174.136.206.70,44698,443,true,SJC,North America,San Jose,171,10.81
+154.17.2.49,26558,443,true,LAX,North America,Los Angeles,163,10.76
+154.17.29.80,50235,443,true,LAX,North America,Los Angeles,180,10.76
+45.59.187.40,34237,2096,true,SJC,North America,San Jose,221,10.75
+154.21.81.118,34237,2096,true,LAX,North America,Los Angeles,198,10.71
+154.21.84.33,21088,443,true,LAX,North America,Los Angeles,166,10.67
+154.17.12.14,38609,443,true,LAX,North America,Los Angeles,186,10.56
+154.17.10.111,25815,443,true,LAX,North America,Los Angeles,199,10.44
+174.136.207.36,34237,2096,true,SJC,North America,San Jose,176,10.42
+174.136.206.38,20443,443,true,SJC,North America,San Jose,172,10.31
+154.17.31.155,34237,2096,true,LAX,North America,Los Angeles,203,10.23
+154.17.30.48,45456,443,true,LAX,North America,Los Angeles,166,10.06
+154.17.9.116,2096,443,true,LAX,North America,Los Angeles,205,10.05
+154.17.1.71,4403,443,true,LAX,North America,Los Angeles,163,10.03
+65.75.192.30,34237,2096,true,SJC,North America,San Jose,228,9.96
+154.17.21.131,34237,2096,true,LAX,North America,Los Angeles,174,9.88
+154.17.30.48,33133,443,true,LAX,North America,Los Angeles,162,9.78
+154.17.26.181,57600,443,true,LAX,North America,Los Angeles,188,9.67
+154.17.17.51,14228,443,true,GRU,South America,São Paulo,182,9.65
+154.17.6.196,59603,443,true,LAX,North America,Los Angeles,174,8.84
+65.75.192.35,22857,443,true,SJC,North America,San Jose,166,8.75
+45.59.187.27,34237,2096,true,SJC,North America,San Jose,217,8.12
+65.75.195.188,50795,443,true,SJC,North America,San Jose,181,7.94
+154.17.27.49,2008,443,true,LAX,North America,Los Angeles,179,7.19
+65.75.194.110,46197,443,true,SJC,North America,San Jose,208,7.10
+154.21.89.107,34237,2096,true,LAX,North America,Los Angeles,177,6.83
+154.17.19.203,2009,443,true,LAX,North America,Los Angeles,180,6.63
+154.17.27.49,2005,443,true,LAX,North America,Los Angeles,187,6.59
+103.117.102.7,46656,443,true,NRT,Asia Pacific,Tokyo,75,5.72
+103.117.102.7,33322,443,true,NRT,Asia Pacific,Tokyo,76,5.62
+103.117.102.7,55566,443,true,NRT,Asia Pacific,Tokyo,70,4.63
+65.75.195.188,12257,443,true,SJC,North America,San Jose,194,4.54
+103.117.102.7,46665,443,true,NRT,Asia Pacific,Tokyo,68,4.02
+103.117.102.7,38889,443,true,NRT,Asia Pacific,Tokyo,74,2.84
+65.75.194.18,19888,443,true,SJC,North America,San Jose,166,2.41
+154.12.177.76,44443,443,true,ORD,North America,Chicago,44,0.70
+154.17.26.74,34237,2096,true,LAX,North America,Los Angeles,175,0.46
+154.17.8.97,80,0,false,LAX,North America,Los Angeles,185,0.08
+154.17.7.171,80,0,false,LAX,North America,Los Angeles,166,0.04
+154.21.93.94,34237,2096,true,LAX,North America,Los Angeles,208,0.04
+174.136.205.46,34237,2096,true,SJC,North America,San Jose,174,0.02
+154.21.93.62,34237,2096,true,LAX,North America,Los Angeles,213,0.01
+174.136.205.47,34237,2096,true,SJC,North America,San Jose,176,0.00
+154.3.37.189,40001,0,false,HKG,Asia Pacific,Hong Kong,42,0.00
+154.3.38.122,37611,443,true,HKG,Asia Pacific,Hong Kong,30,0.00
+154.3.38.122,37610,443,true,KHH,Asia Pacific,Kaohsiung City,40,0.00
+154.17.26.92,80,0,false,LAX,North America,Los Angeles,176,0.00
+174.136.206.136,8080,0,false,SJC,North America,San Jose,178,0.00
+45.59.185.176,8080,0,false,SJC,North America,San Jose,181,0.00
+154.21.93.51,80,0,false,LAX,North America,Los Angeles,183,0.00
